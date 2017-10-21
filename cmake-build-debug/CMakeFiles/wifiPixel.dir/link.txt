@@ -1,0 +1,1 @@
+/Users/deger/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-g++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/wifiPixel.dir/src/NodeMCU.cpp.o  -o wifiPixel 

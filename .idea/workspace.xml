@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="wifiPixel" targetName="PLATFORMIO_TEST" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO_UPDATE_ALL" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO_REBUILD_PROJECT_INDEX" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO_UPLOAD" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO_UPLOADFS" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO_PROGRAM" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO_BUILD" />
+      <config projectName="wifiPixel" targetName="PLATFORMIO_CLEAN" />
+      <config projectName="wifiPixel" targetName="wifiPixel" />
+      <config projectName="wifiPixel" targetName="DEBUG" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec922180-b3d3-40f1-af0b-2568113a9075" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/.sconsign.dblite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/Esp.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/FS.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/HardwareSerial.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/IPAddress.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/MD5Builder.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/Print.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/Schedule.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/Stream.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/StreamString.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/Tone.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/Updater.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/WMath.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/WString.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/abi.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/base64.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/FrameworkArduino/cbuf.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/a.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/a.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/RGBWstrandtest/.esp8266.test.skip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/buttoncycler/.esp8266.test.skip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/simple/.esp8266.test.skip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/strandtest/.esp8266.test.skip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/BlynkBlink/App.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/BlynkBlink/AppQR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/scripts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/scripts/com2tcp.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/wifipixel.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/d1_mini/libFrameworkArduinoVariant.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/do-not-modify-files-here.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.pioenvs/structure.hash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CMakeListsPrivate.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/wifiPixel.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/wifiPixel.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/wifiPixel.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/wifiPixel.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/wifiPixel.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/wifiPixel.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/wifiPixel.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/wifiPixel.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/.github/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/.github/PULL_REQUEST_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/Adafruit_NeoPixel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/esp8266.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/RGBWstrandtest/RGBWstrandtest.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/buttoncycler/buttoncycler.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/simple/simple.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/examples/strandtest/strandtest.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/keywords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Adafruit_NeoPixel/library.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Adafruit_Bluefruit_LE/Adafruit_Bluefruit_LE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Adafruit_Bluefruit_LE/BLESerial.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Adafruit_Bluefruit_LE/BLESerial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Adafruit_Feather_32u4_BLE/Adafruit_Feather_32u4_BLE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Arduino_101_BLE/Arduino_101_BLE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/BBC_MicroBit/BBC_MicroBit.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/BBC_MicroBit/BLESerial.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/BBC_MicroBit/BLESerial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/DFRobot_Bluno_BLE_Link/DFRobot_Bluno_BLE_Link.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Energia_BLE/Energia_BLE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/LightBlue_Bean/LightBlue_Bean.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Microduino_BLE/Microduino_BLE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/RFDuino_BLE/RFDuino_BLE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/RedBearLab_BLE_Mini/RedBearLab_BLE_Mini.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/RedBearLab_BLE_Nano/RedBearLab_BLE_Nano.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/RedBearLab_BlendMicro/BLESerial.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/RedBearLab_BlendMicro/BLESerial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/RedBearLab_BlendMicro/RedBearLab_BlendMicro.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/RedBear_Duo_BLE/RedBear_Duo_BLE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Serial_HC05_HC06/Serial_HC05_HC06.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Serial_HM10_HC08/Serial_HM10_HC08.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/Simblee_BLE/Simblee_BLE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/TheAirBoard_BLE_Link/TheAirBoard_BLE_Link.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/nRF8001/BLESerial.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/nRF8001/BLESerial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Bluetooth/nRF8001/nRF8001.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Ethernet/Arduino_Ethernet/Arduino_Ethernet.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Ethernet/Arduino_Ethernet2/Arduino_Ethernet2.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Ethernet/Arduino_Ethernet_Manual/Arduino_Ethernet_Manual.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Ethernet/ENC28J60/ENC28J60.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Ethernet/Energia_Ethernet/Energia_Ethernet.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Ethernet/Intel_Galileo/Intel_Galileo.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_Ethernet/Seeed_EthernetV2_0/Seeed_EthernetV2_0.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_GSM/SIM800_SIM900/SIM800_SIM900.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/ATtiny85/ATtiny85.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/Arduino_Serial_USB/Arduino_Serial_USB.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/Arduino_SoftwareSerial/Arduino_SoftwareSerial.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/Arduino_Zero_M0_Serial/Arduino_Zero_M0_Serial.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/Blue_Pill_STM32F103C/Blue_Pill_STM32F103C.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/Digistump_Digispark/Digistump_Digispark.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/Energia_Serial_USB/Energia_Serial_USB.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/Teensy3/Teensy3.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_USB_Serial/chipKIT_Uno32/chipKIT_Uno32.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Adafruit_Feather_M0_WiFi/Adafruit_Feather_M0_WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Arduino_MKR1000/Arduino_MKR1000.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Arduino_WiFi_Shield/Arduino_WiFi_Shield.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Arduino_WiFi_Shield_101/Arduino_WiFi_Shield_101.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Arduino_Yun/Arduino_Yun.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/CC3000/CC3000.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Digistump_Oak/Digistump_Oak.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/ESP32_WiFi/ESP32_WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/ESP8266_Shield/ESP8266_Shield.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/ESP8266_Standalone/ESP8266_Standalone.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/ESP8266_Standalone_Manual_IP/ESP8266_Standalone_Manual_IP.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/ESP8266_Standalone_SSL/ESP8266_Standalone_SSL.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/ESP8266_Standalone_SmartConfig/ESP8266_Standalone_SmartConfig.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Energia_WiFi/Energia_WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Fishino/Fishino.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Intel_Edison_WiFi/Intel_Edison_WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/LinkItONE/LinkItONE.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/NodeMCU/NodeMCU.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/RN_XV_WiFly/RN_XV_WiFly.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/RedBear_Duo_WiFi/RedBear_Duo_WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/Sparkfun_Blynk_Board/Sparkfun_Blynk_Board.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/TheAirBoard_WiFly/TheAirBoard_WiFly.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/TinyDuino_WiFi/TinyDuino_WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/WildFire_V3/WildFire_V3.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_WiFi/WildFire_V4/WildFire_V4.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_With_HTTP_API/Arduino_Ethernet/Arduino_Ethernet.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_With_HTTP_API/Arduino_GSM/Arduino_GSM.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_With_HTTP_API/ESP8266/ESP8266.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Boards_With_HTTP_API/SIM800_SIM900/SIM800_SIM900.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/BlynkProvisioning.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/BlynkState.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/ConfigMode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/ConfigStore.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/Indicator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/OTA.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/ResetButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/Settings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/Template_ESP8266.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/ota-firmwares.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_ESP8266/ota-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/BlynkProvisioning.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/BlynkState.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/ConfigMode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/ConfigStore.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/Indicator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/OTA.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/ResetButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/Settings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/Template_MKR1000/Template_MKR1000.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/BlynkProvisioning.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/BlynkState.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/ConfigMode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/ConfigStore.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/Indicator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/OTA.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/ResetButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/Settings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Export_Demo/myPlant_ESP8266/myPlant_ESP8266.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/BlynkBlink/BlynkBlink.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/BlynkBlink/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/GetData/GetData.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/PushData/PushData.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/PushDataOnRequest/PushDataOnRequest.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/Servo/Servo.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/VirtualPinRead/VirtualPinRead.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/VirtualPinReply/VirtualPinReply.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/GettingStarted/VirtualPinWrite/VirtualPinWrite.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/AppConnectedEvents/AppConnectedEvents.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/ArduinoClient/Arduino_Ethernet/Arduino_Ethernet.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/ArduinoClient/ESP8266_WiFi/ESP8266_WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/DHT11/DHT11.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/DirectConnect/ESP8266_AccessPoint/ESP8266_AccessPoint.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/DirectConnect/ESP8266_Station/ESP8266_Station.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/FormatString/FormatString.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/HandleDisconnect/HandleDisconnect.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/NeoPixel/NeoPixel.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/PrintAllVirtual/PrintAllVirtual.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/ServerAsDataStorage/ServerAsDataStorage_MultiValue/ServerAsDataStorage_MultiValue.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/ServerAsDataStorage/ServerAsDataStorage_SingleValue/ServerAsDataStorage_SingleValue.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/SetProperty/SetProperty_MultiValue/SetProperty_MultiValue.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/SetProperty/SetProperty_SingleValue/SetProperty_SingleValue.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/Stroboscope/Stroboscope.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/Sync/ButtonInterrupt/ButtonInterrupt.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/Sync/ButtonPoll/ButtonPoll.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/Sync/HardwareSyncStateFromApp/HardwareSyncStateFromApp.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/More/Sync/SyncPhysicalButton/SyncPhysicalButton.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Bridge/Bridge.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Email/Email.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Eventor/Eventor.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/GPS_Stream/GPS_Stream.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/JoystickTwoAxis/JoystickTwoAxis.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/LCD/LCD_AdvancedMode/LCD_AdvancedMode.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/LCD/LCD_SimpleModePushing/LCD_SimpleModePushing.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/LCD/LCD_SimpleModeReading/LCD_SimpleModeReading.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/LED/LED_Blink/LED_Blink.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/LED/LED_Color/LED_Color.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/LED/LED_Fade/LED_Fade.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/LED/LED_StatusOfButton/LED_StatusOfButton.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Map/Map.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Menu/Menu.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Player/Player.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/PushNotification/PushNotification_Button/PushNotification_Button.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/PushNotification/PushNotification_Interval/PushNotification_Interval.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/RTC/RTC.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/RTC_Advanced/RTC_Advanced.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Table/Table_Advanced/Table_Advanced.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Table/Table_Simple/Table_Simple.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Terminal/Terminal.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/TimeInput/AdvancedTimeInput/AdvancedTimeInput.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/TimeInput/SimpleTimeInput/SimpleTimeInput.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Timer/Timer.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/Twitter/Twitter.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/examples/Widgets/WebHook/WebHook_GET/WebHook_GET.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/keywords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/library.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/library.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/BlynkApiLinux.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/BlynkApiWiringPi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/BlynkDebug.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/BlynkOptionsParser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/BlynkSocket.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/build.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/linux/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/scripts/blynk-ser.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/scripts/blynk-ser.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/scripts/blynk_ctrl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/scripts/certs/server.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BLEPeripheralSerial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkArduinoClient.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkCC3000.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkEthernet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkGsmClient.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkSerial.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkWiFiCommon.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkWiFly.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Adapters/BlynkWildFire.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkApi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkConfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkDebug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkDetectDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkHandlers.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkParam.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkProtocol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkProtocolDefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkTemplates.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkTimer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/Blynk/BlynkWidgetBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkApiArduino.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkApiMbed.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkApiParticle.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkParticle.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleCC3000.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleCurieBLE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEnergiaEthernet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEnergiaWiFi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEsp32.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEsp8266.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEsp8266_SSL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEthernet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEthernet2.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleEthernetV2_0.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleFishino.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleIntelEdisonWiFi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleLinkItONE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleMKR1000.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleParticle.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleRFduinoBLE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleRedBearLab_BLE_Nano.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleRedBear_Duo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleRedBear_Duo_BLE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleSIM800.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleSerialBLE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleShieldEsp8266.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleSimbleeBLE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleStream.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleTinyDuino.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleUIPEthernet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleUserDefined.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleWiFiShield101.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleWiFiShield101_SSL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleWiFly.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleWifi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleWildFire.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkSimpleYun.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/BlynkWidgets.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetBridge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetGPS.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetLCD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetLED.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetMap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetRTC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetSD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetTable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetTerminal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/WidgetTimeInput.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/BlynkDateTime.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/BlynkDebug.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/BlynkFifo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/BlynkFifo2.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/BlynkHandlers.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/BlynkTimer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/BlynkUtility.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/src/utility/utility.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/BlynkBuildTest/BlynkBuildTest.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/BlynkFootprintTest/BlynkFootprintTest.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/GenerateJSON/GenerateJSON.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/SerialXconnect/SerialXconnect.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/loopback.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/pseudo-library.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/pseudo-server-ar-mt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/pseudo-server-ar-select.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Blynk/tests/pseudo-server-dw-mt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/BlynkESP8266_Lib/ESP8266.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/BlynkESP8266_Lib/ESP8266_Lib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/BlynkESP8266_Lib/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/BlynkESP8266_Lib/keywords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/DateStrings.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/Time.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/Time.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/TimeLib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/Processing/SyncArduinoClock/SyncArduinoClock.pde" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/Processing/SyncArduinoClock/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeArduinoDue/TimeArduinoDue.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeGPS/TimeGPS.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeNTP/TimeNTP.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeNTP_ESP8266WiFi/TimeNTP_ESP8266WiFi.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeRTC/TimeRTC.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeRTCLog/TimeRTCLog.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeRTCSet/TimeRTCSet.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeSerial/TimeSerial.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeSerialDateStrings/TimeSerialDateStrings.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/examples/TimeTeensy3/TimeTeensy3.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/keywords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/library.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Time/library.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/TinyGsmClient.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/TinyGsmClientA6.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/TinyGsmClientM590.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/TinyGsmClientSIM800.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/TinyGsmCommon.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/TinyGsmFifo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/TinyWiFiClientESP8266.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/examples/BlynkClient/BlynkClient.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/examples/FileDownload/FileDownload.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/examples/MqttClient/MqttClient.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/examples/WebClient/WebClient.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/keywords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/library.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/library.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/tools/AT_Debug/AT_Debug.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/tools/Diagnostics/Diagnostics.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/tools/FactoryReset/FactoryReset.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TinyGSM/tools/test_build/test_build.ino" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platformio.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NodeMCU.cpp" />
+    </list>
+    <ignored path="platformio.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wifiPixel" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NodeMCU.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NodeMCU.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding>
+                <element signature="e#1191#1215#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/platformio.ini" />
+        <option value="$PROJECT_DIR$/src/NodeMCU.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wifiPixel" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="wifipixel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/platformio.ini" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PLATFORMIO_UPLOAD">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_BUILD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_BUILD" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_CLEAN" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_CLEAN" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_PROGRAM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_PROGRAM" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_REBUILD_PROJECT_INDEX" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_REBUILD_PROJECT_INDEX" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_TEST" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_TEST" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_UPDATE" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_UPDATE_ALL" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_UPLOAD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_UPLOAD" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="PLATFORMIO_UPLOADFS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="PLATFORMIO_UPLOADFS" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wifiPixel" TARGET_NAME="wifiPixel" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PLATFORMIO_UPDATE" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PLATFORMIO_BUILD" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PLATFORMIO_CLEAN" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PLATFORMIO_PROGRAM" />
+      <item index="5" class="java.lang.String" itemvalue="Application.PLATFORMIO_REBUILD_PROJECT_INDEX" />
+      <item index="6" class="java.lang.String" itemvalue="Application.PLATFORMIO_TEST" />
+      <item index="7" class="java.lang.String" itemvalue="Application.PLATFORMIO_UPLOAD" />
+      <item index="8" class="java.lang.String" itemvalue="Application.PLATFORMIO_UPLOADFS" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec922180-b3d3-40f1-af0b-2568113a9075" name="Default" comment="" />
+      <created>1435919971910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1435919971910</updated>
+      <workItem from="1508587969449" duration="600000" />
+      <workItem from="1508592015467" duration="7519000" />
+      <workItem from="1508603153980" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8374000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Serial Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16309012" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Quick and Dirty implementation of a way to controll your NeoPixels with the Blnky App." />
+    <option name="LAST_COMMIT_MESSAGE" value="Quick and Dirty implementation of a way to controll your NeoPixels with the Blnky App." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/NodeMCU.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1191#1215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platformio.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NodeMCU.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+          <folding>
+            <element signature="e#1191#1215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platformio.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NodeMCU.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="e#1191#1215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

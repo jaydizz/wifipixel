@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="wifiPixel"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wifiPixel">
+				<Option output="/Users/deger/Desktop/git/wifipixel/cmake-build-debug/wifiPixel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DARDUINO=20300"/>
+					<Add option="-DLWIP_OPEN_SRC"/>
+					<Add option="-DF_CPU=80000000L"/>
+					<Add option="-D__ets__"/>
+					<Add option="-DICACHE_FLASH"/>
+					<Add option="-DPLATFORMIO=30401"/>
+					<Add option="-DESP8266"/>
+					<Add option="-DARDUINO_ARCH_ESP8266"/>
+					<Add option="-DESP8266_WEMOS_D1MINI"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip/include"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/variants/d1_mini"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/src"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/Adafruit_NeoPixel"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/Blynk/src"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/BlynkESP8266_Lib"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/Time"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/TinyGSM"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
+					<Add directory="/Users/deger/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include"/>
+					<Add directory="/Users/deger/.platformio/packages/toolchain-xtensa/lib/gcc/xtensa-lx106-elf/4.8.2/include"/>
+					<Add directory="/Users/deger/.platformio/packages/toolchain-xtensa/lib/gcc/xtensa-lx106-elf/4.8.2/include-fixed"/>
+					<Add directory="/Users/deger/.platformio/packages/tool-unity"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 wifiPixel"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wifiPixel/fast">
+				<Option output="/Users/deger/Desktop/git/wifipixel/cmake-build-debug/wifiPixel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DARDUINO=20300"/>
+					<Add option="-DLWIP_OPEN_SRC"/>
+					<Add option="-DF_CPU=80000000L"/>
+					<Add option="-D__ets__"/>
+					<Add option="-DICACHE_FLASH"/>
+					<Add option="-DPLATFORMIO=30401"/>
+					<Add option="-DESP8266"/>
+					<Add option="-DARDUINO_ARCH_ESP8266"/>
+					<Add option="-DESP8266_WEMOS_D1MINI"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip/include"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/variants/d1_mini"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/src"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/Adafruit_NeoPixel"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/Blynk/src"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/BlynkESP8266_Lib"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/Time"/>
+					<Add directory="/Users/deger/Desktop/git/wifiPixel/lib/TinyGSM"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
+					<Add directory="/Users/deger/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
+					<Add directory="/Users/deger/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include"/>
+					<Add directory="/Users/deger/.platformio/packages/toolchain-xtensa/lib/gcc/xtensa-lx106-elf/4.8.2/include"/>
+					<Add directory="/Users/deger/.platformio/packages/toolchain-xtensa/lib/gcc/xtensa-lx106-elf/4.8.2/include-fixed"/>
+					<Add directory="/Users/deger/.platformio/packages/tool-unity"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 wifiPixel/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_REBUILD_PROJECT_INDEX">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_REBUILD_PROJECT_INDEX"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPDATE_ALL">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPDATE_ALL"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPLOADFS">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPLOADFS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_BUILD">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_BUILD"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_PROGRAM">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_PROGRAM"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_TEST">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_TEST"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_CLEAN">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_CLEAN"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPLOAD">
+				<Option working_dir="/Users/deger/Desktop/git/wifipixel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPLOAD"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deger/Desktop/git/wifipixel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/deger/Desktop/git/wifiPixel/src/.DS_Store">
+			<Option target="wifiPixel"/>
+		</Unit>
+		<Unit filename="/Users/deger/Desktop/git/wifiPixel/src/NodeMCU.cpp">
+			<Option target="wifiPixel"/>
+		</Unit>
+		<Unit filename="/Users/deger/Desktop/git/wifipixel/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/deger/Desktop/git/wifipixel/CMakeListsPrivate.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

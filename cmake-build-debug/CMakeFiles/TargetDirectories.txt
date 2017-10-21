@@ -1,0 +1,11 @@
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/wifiPixel.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/deger/Desktop/git/wifipixel/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
