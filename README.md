@@ -1,5 +1,5 @@
 # wifipixel
-Controll your Neopixels from your Cellphone via ESP8266 and Blynk
+This application allows you to control your neopixel-strips with your cellphone using Blynk
 
-
-# TODO: Reamde ;)
+# HowTo:
+There are two possible ways to use this project:
